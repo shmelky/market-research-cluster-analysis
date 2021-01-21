@@ -1,5 +1,5 @@
 # Market Research Cluster Analysis
-
+This was a colaborative project with David Moskowitz and Eric Sims. The project was created in Eric's GitHub (https://github.com/EricPostMaster/market-research-cluster-analysis) account and forked into David's (https://github.com/shmelky/market-research-cluster-analysis).
 ## Introduction
 Interpreting consumer product market research data can be a daunting task.  Researchers may collect user input on dozens of variables, and then it is up to analysts to interpret and generalize those results into meaningful market segments and actionable insights.  The goal of this project has been to create a repeatable, efficient, and technically sound approach to uncovering latent market segments from market research data and to identify variables that are most influential in defining those market segments so marketing and product development teams can more efficiently reach their target audiences.
 
